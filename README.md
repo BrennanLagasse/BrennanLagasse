@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrennanLagasse
-- I’m interested in computer science, data science, and science and engineering in general
-- I will be studying CS/? at Yale ('26) 
+- I’m interested in computer science, data science, and machine learning
+- I am studying Computer Science and Mathematics as well as Statistics and Data Science at Yale University ('26) 
 
 <!---
 BrennanLagasse/BrennanLagasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

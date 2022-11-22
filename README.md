@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BrennanLagasse
-- I’m interested in computer science, data science, and machine learning
+- I'm interested in computer science, data science, and machine learning
+- I'm excited by data-driven, computational approaches to biology, neuroscience, robotics, and economics
 - I am studying Computer Science and Mathematics as well as Statistics and Data Science at Yale University ('26) 
 
 <!---

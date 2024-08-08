@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @BrennanLagasse
-- I'm interested in computer science, data science, machine learning, quantum computing, and complexity theory
-- I'm excited by computational approaches to biology, neuroscience, robotics, and economics
-- I am studying Computer Science and Mathematics as well as Statistics and Data Science at Yale University ('26) 
+# 👋 Hi, I’m Brennan Lagasse
+
+- 💻 Senior AI/ML Research Intern @Lockheed AI Center working as tech lead for symbolic episodic memory transformers research project
+- ⚛️ Research Assistant @Yale Quantum Systems Lab investigating quantum optimization algorithms
+- 📖 CS + Math Major @ Yale ('26)
+- 🔬 My research interests include RL (HRL), neurosymbolic AI, quantum algorithms, and complexity theory
 
 <!---
 BrennanLagasse/BrennanLagasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

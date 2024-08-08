@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brennan Lagasse
 
-- 💻 Senior AI/ML Research Intern @Lockheed AI Center working as tech lead for symbolic episodic memory transformers research project
+- 💻 Senior AI/ML Research Intern @Lockheed AI Center and tech lead for symbolic episodic memory transformers research project
 - ⚛️ Research Assistant @Yale Quantum Systems Lab investigating quantum optimization algorithms
 - 📖 CS + Math Major @ Yale ('26)
 - 🔬 My research interests include RL (HRL), neurosymbolic AI, quantum algorithms, and complexity theory

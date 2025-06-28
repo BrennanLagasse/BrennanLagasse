@@ -4,7 +4,7 @@
 - 🧑‍🏫 Research Advisor for High School and College Students @ Algoverse
 - 📖 CS + Math Major @ Yale ('26)
 - 🔬 My research interests include
-    - Reinforcement learning (meta and few shot learning, transfer learning)
+    - Reinforcement learning (meta and few shot learning, transfer learning, memory for RL)
     - Neurosymbolic machine learning
     - Reasoning models
     - Quantum/Classic Optimziation

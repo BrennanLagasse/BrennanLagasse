@@ -1,14 +1,13 @@
 # 👋 Hi, I’m Brennan Lagasse
 
-- 📐 Research Assistant for Graph and Geometric Learning Group @ Yale
-- 🧑‍🏫 Research Advisor for high school and college students @ Algoverse
-- 💻 Formerly AI/ML Research Intern @Lockheed AI Center and tech lead for Symbolic Episodic Memory Transformers project
-- 📖 CS + math major @ Yale ('26)
+- 💻 AI/ML Research Engineer @Lockheed AI Center
+- 📖 CS + Math (Yale '26)
+- 📐 Former Research Assistant for Graph and Geometric Learning Group @ Yale
+- 🧑‍🏫 Former Research Advisor for high school and college students @ Algoverse
 - 🔬 My research interests include
-    - Geometric and topological machine learning
+    - Geometry/topology of latent representations (especially as it relates to explainability/interpretability)
     - Reasoning models
-    - Reinforcement learning (meta and few shot learning, transfer learning, memory for RL)
-    - Neurosymbolic machine learning
+    - Reinforcement learning
 
 <!---
 BrennanLagasse/BrennanLagasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
